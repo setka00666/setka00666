@@ -10,5 +10,3 @@
 - Основы Python https://github.com/setka00666/portfolio/blob/main/certificate%20(3).pdf
 
 - Библиотеки Python для анализа данных https://github.com/setka00666/portfolio/blob/main/certificate%20(4).pdf
-
-- 
