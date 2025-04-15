@@ -1,6 +1,7 @@
 # portfolio
 ### Вот, что я умею
 - SQL [SQL репозиторий](https://github.com/setka00666/sql)
+- web_scraping [web_scraping_репозиторий](https://github.com/setka00666/web_scraping)
 ### Сертификаты Нетологии
 
 - Основы аналитики и аналитическое мышление https://github.com/setka00666/portfolio/blob/main/certificate.pdf
