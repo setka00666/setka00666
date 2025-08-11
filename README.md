@@ -3,7 +3,7 @@
 - SQL [SQL репозиторий](https://github.com/setka00666/sql)
 - web_scraping [web_scraping_репозиторий](https://github.com/setka00666/web_scraping)
 - Python [NumPy](https://github.com/setka00666/Python_NumPy), [Pandas](https://github.com/setka00666/pandas)
-- Дипломная работа. [Анализ оттока клиентов банка (поиск инсайтов, составление рекомендаций стейкхолдерам)](https://github.com/setka00666/diplom/tree/main)
+- Дипломная работа. [Анализ оттока клиентов банка (поиск инсайтов, составление рекомендаций стейкхолдерам)](https://github.com/setka00666/diplom/tree/main), [Документация](https://docs.google.com/document/d/1YltJLJrbsPd4dDzztfHG99Mj0PNBowZXDAZOLG5cFDY/edit?usp=sharing)
 ### Сертификаты Нетологии
 
 - Основы аналитики и аналитическое мышление https://github.com/setka00666/portfolio/blob/main/certificate.pdf
