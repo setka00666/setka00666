@@ -6,6 +6,7 @@
 - Дипломная работа. [Анализ оттока клиентов банка (поиск инсайтов, составление рекомендаций стейкхолдерам)](https://github.com/setka00666/diplom/tree/main), [Документация](https://docs.google.com/document/d/1YltJLJrbsPd4dDzztfHG99Mj0PNBowZXDAZOLG5cFDY/edit?usp=sharing), [Презентация](https://docs.google.com/presentation/d/1tlqzKDyryHD29f7jo7gXy0C37mKtGEfziqjUsHrT6GE/edit?usp=sharing)
 - Кейсы [SQL](https://github.com/setka00666/SQL--), [SQL/БД](https://github.com/setka00666/SQL-)
 ### Сертификаты Нетологии
+- Аналитик данных https://github.com/setka00666/setka00666/blob/main/1certificate.pdf
 
 - Основы аналитики и аналитическое мышление https://github.com/setka00666/portfolio/blob/main/certificate.pdf
 
