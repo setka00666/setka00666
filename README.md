@@ -1,3 +1,4 @@
+# Александр Бочериков
 # portfolio
 ### Вот, что я умею
 - SQL [SQL репозиторий](https://github.com/setka00666/sql)
